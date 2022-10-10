@@ -3,11 +3,11 @@
 <h3 align="center">A passionate fullstack developer from India</h3>
 </a> </p>
 
-- 🔭 I’m currently working on **BusBookingSystem**
+- 🔭 I’m pursuing  **College**
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Js and Java**
+- 💬 Ask me about **JS and Java**
 
 - 📫 How to reach me **srinevedars@gmail.com**
 
